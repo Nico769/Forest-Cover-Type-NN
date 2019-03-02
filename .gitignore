@@ -1,3 +1,12 @@
+# dataset
+covtype.data
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Old notebooks
+CovertypeProj.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
