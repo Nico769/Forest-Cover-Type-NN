@@ -3,4 +3,5 @@ pandas==0.24.*
 matplotlib==3.*
 seaborn==0.9.*
 scikit-learn==0.21.*
-skorch==0.6.*
+graphviz==0.11.*
+pydotplus==2.0.*
