@@ -1,3 +1,9 @@
+# txt files
+*.txt
+
+# Trained models
+*.hdf5
+
 # dataset
 covtype.data
 
